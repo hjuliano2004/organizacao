@@ -1,0 +1,10 @@
+projeto\seguranca\entities\Organizacao$OrganizacaoBuilder.class
+projeto\seguranca\entities\Material$MaterialBuilder.class
+projeto\seguranca\entities\Usuario.class
+projeto\seguranca\dtos\MaterialRequestDto.class
+projeto\seguranca\entities\Organizacao.class
+projeto\seguranca\dtos\MaterialResponseDto.class
+projeto\seguranca\entities\Usuario$UsuarioBuilder.class
+projeto\seguranca\entities\Material.class
+projeto\seguranca\dtos\MaterialRequestDto$MaterialRequestDtoBuilder.class
+projeto\seguranca\dtos\MaterialResponseDto$MaterialResponseDtoBuilder.class
